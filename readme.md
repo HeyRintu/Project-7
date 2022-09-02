@@ -10,7 +10,7 @@
 
 ## **Live Demo**  💻 
 
->### _[**Live Link**](https://project-7.netlify.app/)_
+>### _[**Live Link**](https://heyrintu-project-7.netlify.app/)_
 <br>
 
 ## **Preview**🔎
