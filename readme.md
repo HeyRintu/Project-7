@@ -1,4 +1,4 @@
-# **Project 08: Responsive Design**
+# **Project 07: Responsive Design**
 
 ## **Name:**  _Rintu Mondal_.🧑🏽‍💻
 <br>
